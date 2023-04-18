@@ -35,9 +35,9 @@ set history=500
 
 set nu
 set cursorline
-set cursorcolumn
-
 highlight CursorLine cterm=none ctermbg=DarkMagenta ctermfg=White
+
+set cursorcolumn
 highlight CursorColumn cterm=none ctermbg=DarkMagenta ctermfg=White
 
 " Enable filetype plugins
